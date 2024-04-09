@@ -5,10 +5,10 @@ int main()
     int a = 0; 
     int b = 0;
 
-    printf("Please enter a First number:\n");
+    printf("Please enter First number:\n");
     scanf("%d", &a);
 
-    printf("Please enter a Second number:\n");
+    printf("Please enter Second number:\n");
     scanf("%d", &b);
 
     if(a <= b) 
